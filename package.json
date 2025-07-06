@@ -28,7 +28,15 @@
   },
   "homepage": "https://github.com/jadogeri/useResults-TS#readme",
   "dependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "@babel/preset-react": "^7.27.1",
     "jest": "^30.0.4"
+  },
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@types/jest": "^30.0.0"
