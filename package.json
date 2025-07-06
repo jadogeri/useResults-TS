@@ -32,7 +32,8 @@
     "@babel/core": "^7.28.0",
     "@babel/preset-env": "^7.28.0",
     "@babel/preset-react": "^7.27.1",
-    "jest": "^30.0.4"
+    "jest": "^30.0.4",
+    "scheduler": "^0.26.0"
   },
   "peerDependencies": {
     "react": "^19.1.0",
