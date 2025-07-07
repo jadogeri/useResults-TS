@@ -28,9 +28,12 @@
   },
   "homepage": "https://github.com/jadogeri/useResults-TS#readme",
   "dependencies": {
-    "jest": "^30.0.4"
+    "jest": "^30.0.4",
+    "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "@types/jest": "^30.0.0"
+    "@types/jest": "^30.0.0",
+    "ts-jest": "^29.4.0",
+    "ts-node": "^10.9.2"
   }
 }
