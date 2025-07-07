@@ -4,7 +4,7 @@
   "description": "React hook for fetching data from ApI",
   "main": "index.ts",
   "scripts": {
-    "test": "npm run test"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
