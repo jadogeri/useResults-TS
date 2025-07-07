@@ -4,4 +4,4 @@
 
 import useResults from "./src/useResults";
 
-export {useResults}
+export default useResults;
