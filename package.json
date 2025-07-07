@@ -47,8 +47,6 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react-hooks": "^8.0.1",
     "jest": "^30.0.4",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
     "ts-add-js-extension": "^1.6.6",
     "typescript": "^5.8.3"
   },
