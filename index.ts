@@ -1,3 +1,7 @@
-import { getParamsAsString } from "./src/getParamsAsString";
+//import { getParamsAsString } from "./src/getParamsAsString";
 
-export { getParamsAsString }
+//export { getParamsAsString }
+
+import useResults from "./src/useResults";
+
+export {useResults}
