@@ -1,48 +1,5 @@
 {
-  "name": "@josephadogeridev/use-results-ts",
-  "version": "1.0.0",
-  "description": "React hook for fetching data from ApI",
-  "main": "index.ts",
-  "scripts": {
-    "test": "jest --coverage"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jadogeri/useResults-TS.git"
-  },
-  "keywords": [
-    "@josephadogeridev/use-results-ts",
-    "use-results-ts",
-    "@josephadogeridev",
-    "npm",
-    "react",
-    "react-native",
-    "typescript",
-    "hook",
-    "API"
-  ],
-  "author": "Joseph Adogeri",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jadogeri/useResults-TS/issues"
-  },
-  "homepage": "https://github.com/jadogeri/useResults-TS#readme",
   "dependencies": {
-    "@testing-library/jest-dom": "^6.6.3",
-    "@testing-library/react-hooks": "^8.0.1",
-    "jest": "^30.0.4",
-    "loose-envify": "^1.4.0",
-    "object-assign": "^4.1.1",
-    "scheduler": "^0.26.0",
-    "typescript": "^5.8.3"
-  },
-  "devDependencies": {
-    "@types/jest": "^30.0.0",
-    "@types/react": "^17.0.0",
-    "ts-jest": "^29.4.0",
-    "ts-node": "^10.9.2"
-  },
-  "peerDependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
