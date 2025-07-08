@@ -1,6 +1,6 @@
 {
   "name": "@josephadogeridev/use-results-ts",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "React hook for fetching data from ApI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
