@@ -16,11 +16,10 @@ import { BaseProps } from "./types/BaseProps";
  * Fetches data from a specified API endpoint and manages the results and error state.
  * 
  * @param {ResultsApiProps} props - Configuration object containing base URL, route, and headers.
- * @returns {[Function, any[], any]} - Returns a search function, the results array, and an error message.
+ * @returns {[Function, any[], string]} - Returns a search function, the results array, and an error message.
  * @throws {Error} - Throws an error message if the fetch operation fails.
  */
 // 
-//const useResults = ({ baseURL, baseRoute, baseHeaders }: BaseProps): [Function, any[], any] => {
 const useResults = ({ baseURL, baseRoute, baseHeaders }: BaseProps): [Function, any[], string] => {
 
   const [results, setResults] = useState<any[]>([]);
