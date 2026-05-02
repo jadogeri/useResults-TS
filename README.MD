@@ -1,13 +1,13 @@
 # **USE RESULTS TS**
 
-**Version:** 1.0.0
-**Date:** July 7, 2025
+**Version:** 1.0.0</br>
+**Date:** July 7, 2025<br/>
 
 ---
 
 ## Description ##
 
-This is a typescript npm package for retreiving data from api. This react hook abstracts fetch API implementaion.
+This is a typescript npm package for retreiving data from an API. This react hook abstracts fetch API implementaion.
 
 ## Authors ##
 
